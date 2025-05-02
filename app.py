@@ -9,7 +9,7 @@ st.title("EE627 Final Project")
 
 # Introduction text
 st.markdown(unsafe_allow_html=True, body="<p>Welcome to Pneumonia detector APP.</p>"
-                                         "<p>
+                                  
                                          "With this app, you can upload a Chest X-Ray image and predict if the patient "
                                          "from that image suffers pneumonia or not.</p>"
                                          "<p>The model used is a Efficientnet-b0 and in this "
