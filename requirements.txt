@@ -1,7 +1,5 @@
-
-Keras==2.4.3
-streamlit==0.69.2
-Pillow==8.0.0
-tensorflow==2.13.0  # or the latest version you’ve tested your app with
-numpy==1.24.3       # a stable version that works well with TF 2.13 and Python 3.1
-
+tensorflow==2.17.1
+keras==2.17.0
+numpy==1.24.3
+Pillow==9.5.0
+streamlit==1.32.0
