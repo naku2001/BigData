@@ -8,10 +8,10 @@ st.title("Pneumodetector APP")
 
 # Introduction text
 st.markdown(unsafe_allow_html=True, body="<p>Welcome to Pneumodetector APP.</p>"
-                                         "<p>This is a basic app built with Streamlit."
+                                         "<p>EE627 Final Project"
                                          "With this app, you can upload a Chest X-Ray image and predict if the patient "
                                          "from that image suffers pneumonia or not.</p>"
-                                         "<p>The model used is a Convolutional Neural Network (CNN) and in this "
+                                         "<p>The model used is a Efficientnet-b0 and in this "
                                          "moment has a test accuracy of "
                                          "<strong>90.7%.</strong></p>")
 
